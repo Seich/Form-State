@@ -1,0 +1,19 @@
+{
+  "name": "form-state",
+  "version": "1.0.0",
+  "description": "A quick and simple way of keeping track or a form's state using CSS classes.",
+  "main": "form-state.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Seich/Form-State.git"
+  },
+  "author": "David Díaz <seich@martianwabbit.com> (http://martianwabbit.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Seich/Form-State/issues"
+  },
+  "homepage": "https://github.com/Seich/Form-State#readme"
+}
